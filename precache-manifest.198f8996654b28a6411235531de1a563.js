@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/cv/static/media/chat.dd1027dd.jpg"
   },
   {
-    "revision": "0594bdd2a98509a9c05b",
-    "url": "/cv/static/css/main.5c98438b.chunk.css"
+    "revision": "8103bf209d11e66ae804",
+    "url": "/cv/static/css/main.1d0b274b.chunk.css"
   },
   {
-    "revision": "15c6f840fbe1f56e7e8b",
-    "url": "/cv/static/js/1.15c6f840.chunk.js"
+    "revision": "6dc95319518104991e41",
+    "url": "/cv/static/js/1.6dc95319.chunk.js"
   },
   {
     "revision": "084ac45aee39707f976e",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/cv/static/media/Фото2.db463b2b.jpg"
   },
   {
-    "revision": "0594bdd2a98509a9c05b",
-    "url": "/cv/static/js/main.0594bdd2.chunk.js"
+    "revision": "8103bf209d11e66ae804",
+    "url": "/cv/static/js/main.8103bf20.chunk.js"
   },
   {
     "revision": "2113c1ace128d01797bff5c04b2cbc62",
@@ -32,15 +32,15 @@ self.__precacheManifest = [
     "url": "/cv/static/media/game.3f3a46b4.jpg"
   },
   {
-    "revision": "d8664a6d2f7c2a54e5f9e5166d733653",
-    "url": "/cv/static/media/site.d8664a6d.jpg"
-  },
-  {
     "revision": "474f3cda86bddac4d54af56d8256fc51",
     "url": "/cv/static/media/Landing.474f3cda.png"
   },
   {
-    "revision": "7a78837994cd4c7c731bebf5fe6fe4c0",
+    "revision": "d8664a6d2f7c2a54e5f9e5166d733653",
+    "url": "/cv/static/media/site.d8664a6d.jpg"
+  },
+  {
+    "revision": "0a1ec66b4c247859470766d6f91d0604",
     "url": "/cv/index.html"
   }
 ];
