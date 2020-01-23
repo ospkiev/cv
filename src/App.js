@@ -6,7 +6,7 @@ import "./App.css";
 import About from "./About/About";
 import Projects from "./Projects/Projects";
 import Contacts from "./Contacts/Contacts";
-import { FaFacebook } from "react-icons/fa";
+import { FaGitlab } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { IconContext } from "react-icons";
@@ -66,20 +66,21 @@ class App extends Component {
             </li>
 
             <li>
-              <a href="https://www.facebook.com/paul.karpenko.1">
+              <a href="https://gitlab.com/ospkiev">
                 <IconContext.Provider
                   value={{ color: "black", size: "1.7rem" }}
                 >
-                  <FaFacebook />
+                  <FaGitlab />
                 </IconContext.Provider>
               </a>
             </li>
           </ul>
           <div className="download_wrapper">
             <a
-              href="https://drive.google.com/file/d/1FjuoLqbIC4FgsM5ySXAUxTNDfRQFrBf3/view?usp=sharing"
+              href="https://drive.google.com/open?id=1ihAq1px-NmGpx3p3UBpgT6exng30yAVX"
               rel="noopener noreferrer"
               className="download"
+              target="_blank"
             >
               Download my CV
             </a>

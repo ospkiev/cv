@@ -8,9 +8,7 @@ import landing from "../img/Landing.png";
 const Projects = () => {
   return (
     <div className="projects">
-      <p className="text">
-        Please follow the links below to find out more about my projects.
-      </p>
+      <p className="text">My Pet-projects.</p>
       <p className="img__wrapper">
         <a
           href="https://b8-chat.goit.co.ua/"

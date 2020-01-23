@@ -11,19 +11,16 @@ const About = () => {
         with HTML5/CSS3 and React/Redux ,now I work with Vue/Nuxt.
       </p>
       <p className="skills">
-        {" "}
         <span>Skills:</span>React/Redux, Vue/Nuxt, Bootstrap, Material UI,
         Vuetify.
       </p>
       <p className="experience">
-        {" "}
         <span>
-          {" "}
           Work experience.
           <br />
         </span>
         1.SelectSpecs (Kyiv, London)
-        <a href="https://www.selectspecs.com/">https://www.selectspecs.com/</a>
+        <a href="https://www.selectspecs.com/"> https://www.selectspecs.com/</a>
         <br />
         Front-end developer, June2019 - Now.
         <br />
@@ -37,13 +34,13 @@ const About = () => {
         Responsibilities : create web sites ,single page applications .<br />
         3. GIMedia (Kyiv)
         <br />
-        Sales/support engineer, Jan 2017 – Aug 2018.
+        Support engineer, Jan 2017 – Aug 2018.
         <br />
         Responsibilities : provide software and hardware for Digital Signage
         Solutions (manage and control video/audio content remotely in
         advertising industry).
         <br />
-        3.National Technical University of Ukraine 'Kyiv Polytechnic Institute'
+        4.National Technical University of Ukraine 'Kyiv Polytechnic Institute'
         (Kyiv)
         <br />
         Engineer of Electronic faculty, Sept 2012 – Oct 2015.
