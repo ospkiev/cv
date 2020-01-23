@@ -1,0 +1,15 @@
+.about{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    padding: 22px;
+    width: 70%;
+}
+
+span{
+    font-weight: 800;
+}
+
+p{
+    margin-bottom: 2vh;
+}
