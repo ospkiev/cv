@@ -16,9 +16,7 @@ const About = () => {
         Bootstrap, Material UI.
       </p>
       <p className="experience">
-        {" "}
         <span>
-          {" "}
           Work experience.
           <br />
         </span>

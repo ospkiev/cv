@@ -69,7 +69,7 @@ class App extends Component {
             </li>
 
             <li>
-              <a href="https://www.facebook.com/paul.karpenko.1">
+              <a href="https://gitlab.com/ospkiev">
                 <IconContext.Provider
                   value={{ color: "black", size: "1.7rem" }}
                 >
@@ -80,12 +80,11 @@ class App extends Component {
           </ul>
           <div className="download_wrapper">
             <a
-              href="https://drive.google.com/file/d/1FjuoLqbIC4FgsM5ySXAUxTNDfRQFrBf3/view?usp=sharing"
+              href="https://drive.google.com/open?id=1W-7Q7gRbU3J2Qeld8DmjrkGPyciJAW93"
               target="_blank"
               rel="noopener noreferrer"
               className="download"
             >
-              {" "}
               Download my CV
             </a>
           </div>
