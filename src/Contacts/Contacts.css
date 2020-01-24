@@ -1,4 +1,10 @@
-.contacts{
-    padding:5vh;
-    font-weight: 500;
+.contacts {
+  padding: 5vh;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .contacts {
+    text-align: center;
+  }
 }

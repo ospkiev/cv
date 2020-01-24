@@ -69,7 +69,7 @@ class App extends Component {
             </li>
 
             <li>
-              <a href="https://gitlab.com/ospkiev">
+              <a href="https://gitlab.com/ospkiev" target="_blank">
                 <IconContext.Provider
                   value={{ color: "black", size: "1.7rem" }}
                 >

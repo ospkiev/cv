@@ -20,14 +20,14 @@ const About = () => {
           Work experience.
           <br />
         </span>
-        1.SelectSpecs (Kyiv, London)
+        1.SelectSpecs (Kyiv, London) <br />
         <a href="https://www.selectspecs.com/">https://www.selectspecs.com/</a>
         <br />
         Front-end developer, June2019 – Now.
         <br />
         Responsibilities : develop web app on Vue/Nuxt.
         <br />
-        2. Upscale Academy (Kyiv)
+        2. Upscale Academy (Kyiv) <br />
         <a href="https://upscaleacademy.com/">https://upscaleacademy.com/</a>
         <br />
         Front-end developer, Dec2018 - June2019
@@ -36,10 +36,9 @@ const About = () => {
         <br />
         3.GIMedia (Kyiv)
         <br />
-        Support engineer, Jan 2017 – Aug 2018.
-        <br />
-        Responsibilities : search of materials for solar panels (atomic force
-        microscopy).
+        Support engineer, Jan 2017 – Aug 2018. Responsibilities : provide
+        software and hardware for Digital Signage Solutions (manage and control
+        video/audio content remotely in advertising industry).
       </p>
       <p className="education">
         {" "}
