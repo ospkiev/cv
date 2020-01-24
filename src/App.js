@@ -6,7 +6,7 @@ import "./App.css";
 import About from "./About/About";
 import Projects from "./Projects/Projects";
 import Contacts from "./Contacts/Contacts";
-import { FaFacebook } from "react-icons/fa";
+import { FaGitlab } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { IconContext } from "react-icons";
@@ -73,7 +73,7 @@ class App extends Component {
                 <IconContext.Provider
                   value={{ color: "black", size: "1.7rem" }}
                 >
-                  <FaFacebook />
+                  <FaGitlab />
                 </IconContext.Provider>
               </a>
             </li>
