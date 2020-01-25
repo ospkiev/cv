@@ -1,7 +1,7 @@
 {
-  "main.css": "/cv/static/css/main.89070533.chunk.css",
-  "main.js": "/cv/static/js/main.4eccb54e.chunk.js",
-  "main.js.map": "/cv/static/js/main.4eccb54e.chunk.js.map",
+  "main.css": "/cv/static/css/main.330c1b11.chunk.css",
+  "main.js": "/cv/static/js/main.920c5320.chunk.js",
+  "main.js.map": "/cv/static/js/main.920c5320.chunk.js.map",
   "static/js/1.555da7bd.chunk.js": "/cv/static/js/1.555da7bd.chunk.js",
   "static/js/1.555da7bd.chunk.js.map": "/cv/static/js/1.555da7bd.chunk.js.map",
   "runtime~main.js": "/cv/static/js/runtime~main.084ac45a.js",
@@ -10,8 +10,8 @@
   "static/media/game.jpg": "/cv/static/media/game.3f3a46b4.jpg",
   "static/media/Landing.png": "/cv/static/media/Landing.474f3cda.png",
   "static/media/weather.jpg": "/cv/static/media/weather.2113c1ac.jpg",
-  "static/css/main.89070533.chunk.css.map": "/cv/static/css/main.89070533.chunk.css.map",
+  "static/css/main.330c1b11.chunk.css.map": "/cv/static/css/main.330c1b11.chunk.css.map",
   "index.html": "/cv/index.html",
-  "precache-manifest.0b577142e738e2052b5fb554712918b4.js": "/cv/precache-manifest.0b577142e738e2052b5fb554712918b4.js",
+  "precache-manifest.c34fb0f1118b99f03230f80f45907433.js": "/cv/precache-manifest.c34fb0f1118b99f03230f80f45907433.js",
   "service-worker.js": "/cv/service-worker.js"
 }
