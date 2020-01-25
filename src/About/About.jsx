@@ -21,14 +21,18 @@ const About = () => {
           <br />
         </span>
         1.SelectSpecs (Kyiv, London) <br />
-        <a href="https://www.selectspecs.com/">https://www.selectspecs.com/</a>
+        <a href="https://www.selectspecs.com/" target="_blank">
+          https://www.selectspecs.com/
+        </a>
         <br />
         Front-end developer, June2019 – Now.
         <br />
         Responsibilities : develop web app on Vue/Nuxt.
         <br />
         2. Upscale Academy (Kyiv) <br />
-        <a href="https://upscaleacademy.com/">https://upscaleacademy.com/</a>
+        <a href="https://upscaleacademy.com/" target="_blank">
+          https://upscaleacademy.com/
+        </a>
         <br />
         Front-end developer, Dec2018 - June2019
         <br />
