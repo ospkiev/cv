@@ -45,7 +45,7 @@ class App extends Component {
             </li>
           </ul>
           <ul className="social">
-            <li>
+            <li className="social__item">
               <a href="https://github.com/ospkiev" target="_blank">
                 <IconContext.Provider
                   value={{ color: "black", size: "1.7rem" }}
@@ -54,8 +54,7 @@ class App extends Component {
                 </IconContext.Provider>
               </a>
             </li>
-
-            <li>
+            <li className="social__item">
               <a
                 href="https://www.linkedin.com/in/pavel-karpenko-47984786/"
                 target="_blank"
@@ -67,8 +66,7 @@ class App extends Component {
                 </IconContext.Provider>
               </a>
             </li>
-
-            <li>
+            <li className="social__item">
               <a href="https://gitlab.com/ospkiev" target="_blank">
                 <IconContext.Provider
                   value={{ color: "black", size: "1.7rem" }}
@@ -89,7 +87,6 @@ class App extends Component {
             </a>
           </div>
         </div>
-
         <div className="wrapper">
           <Route
             render={({ location }) => (

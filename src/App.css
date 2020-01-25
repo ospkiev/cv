@@ -1,61 +1,61 @@
-*{
+* {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 1rem;
 }
 
-ul{
+ul {
   list-style: none;
 }
 
-.App{
+.App {
   display: flex;
   flex-direction: column;
   margin: auto;
 }
 
-.photo{
+.photo {
   width: 100%;
   height: auto;
-  /* margin-bottom: 15px; */
-  box-shadow: 0px 10px 24px 7px rgba(163,161,163,0.86);
+  box-shadow: 0px 10px 24px 7px rgba(163, 161, 163, 0.86);
 }
 
-.download{
+.download {
   color: black;
   font-size: 1rem;
-  /* border: 1px solid black; */
   margin: auto;
   display: block;
   text-align: center;
-  text-decoration: none;  
+  text-decoration: none;
   margin-bottom: 5rem;
 }
 
-.download:hover{
+.download:hover {
   background-color: rgb(118, 206, 233);
-  color: #ffffff; 
-
+  color: #ffffff;
 }
 
-.photo__wrapper{
+.photo__wrapper {
   padding-top: 3vh;
 }
 
-.sidebar{
+.sidebar {
   width: 100%;
-  /* position: absolute; */
 }
 
-.social{
+.social {
   display: flex;
   width: 80%;
   justify-content: space-around;
   margin: 3vh auto;
 }
 
-.nav__item{
+.nav {
+  margin-top: 10px;
+}
+
+.nav__item {
   text-decoration: none;
   color: #000000;
   font-size: 1rem;
@@ -64,70 +64,65 @@ ul{
   margin: 2vh 0;
 }
 
-.nav__item:hover{
+.nav__item:hover {
   text-decoration: none;
   background-color: rgb(118, 206, 233);
-  color: #ffffff; 
+  color: #ffffff;
 }
 
 /* styles for transition group */
-.page{
+.page {
   position: absolute;
   top: 0;
   left: 0;
 }
 
-.fade-appear.fade-enter{
+.fade-appear.fade-enter {
   opacity: 0;
   z-index: 1;
 }
 
-.fade-appear-active
-.fade-enter.fade-enter-active{
+.fade-appear-active .fade-enter.fade-enter-active {
   opacity: 1;
   transition: opacity 800ms linear 500ms;
 }
 
-.fade-exit{
+.fade-exit {
   opacity: 1;
 }
 
-.fade-exit.fade-exit-active{
+.fade-exit.fade-exit-active {
   opacity: 0;
-  transition: opacity 800ms linear 0ms ;
+  transition: opacity 800ms linear 0ms;
 }
-
 
 /* media queries */
-@media (min-width: 320px) and (max-width:468px) {
-  .photo{
+@media (min-width: 320px) and (max-width: 468px) {
+  .photo {
     width: 70%;
     height: auto;
     margin: auto;
+  }
 }
-}
-  
 
-
-@media (min-width: 469px) and (max-width:768px) {
-  .photo{
+@media (min-width: 469px) and (max-width: 768px) {
+  .photo {
     width: 70%;
     height: auto;
     margin: auto;
-}
-  
+  }
 }
 
-@media  (min-width:769px) {
-  .App{
+@media (min-width: 769px) {
+  .App {
     flex-direction: row;
   }
 
-  .sidebar{
+  .sidebar {
     width: 27%;
   }
 
-  .photo__wrapper{
+  .photo__wrapper {
     padding: 3vh;
   }
 }
