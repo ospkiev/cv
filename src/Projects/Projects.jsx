@@ -20,7 +20,7 @@ const Projects = () => {
       </p>
       <p className="img__wrapper">
         <a
-          href="https://ospkiev.github.io/test_weather/#/"
+          href="https://ospkiev.github.io/weather_app/"
           target="_blank"
           rel="noopener noreferrer"
         >
