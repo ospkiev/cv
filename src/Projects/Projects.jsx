@@ -14,7 +14,7 @@ const Projects = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={landing} />
+          <img src={landing} alt="img"/>
         </a>
         Used HTML5/CSS3{" "}
       </p>
@@ -24,7 +24,7 @@ const Projects = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={weather} />
+          <img src={weather} alt="img"/>
         </a>
         Get Weather , a single page application was developed via React/Redux
       </p>
@@ -34,7 +34,7 @@ const Projects = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={game} />
+          <img src={game} alt="img"/>
         </a>
         Used JS/HTML5/CSS3
       </p>
