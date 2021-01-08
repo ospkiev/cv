@@ -13,7 +13,7 @@ const About = () => {
       <p className="skills">
         {" "}
         <span>Skills:</span> JavaScript, React/Redux, Vue/Nuxt, BEM, Photoshop,
-        Bootstrap, Material UI.
+        Figma, Bootstrap, Material UI.
       </p>
       <p className="experience">
         <span>
@@ -21,7 +21,7 @@ const About = () => {
           <br />
         </span>
         1.SelectSpecs (Kyiv, London) <br />
-        <a href="https://www.selectspecs.com/" target="_blank">
+        <a href="https://www.selectspecs.com/" target="_blank" rel="noopener noreferrer">
           https://www.selectspecs.com/
         </a>
         <br />
@@ -30,7 +30,7 @@ const About = () => {
         Responsibilities : develop web app on Vue/Nuxt.
         <br />
         2. Upscale Academy (Kyiv) <br />
-        <a href="https://upscaleacademy.com/" target="_blank">
+        <a href="https://upscaleacademy.com/" target="_blank" rel="noopener noreferrer">
           https://upscaleacademy.com/
         </a>
         <br />
