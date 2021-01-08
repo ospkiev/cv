@@ -13,7 +13,7 @@ const About = () => {
       <p className="skills">
         {" "}
         <span>Skills:</span> JavaScript, React/Redux, Vue/Nuxt, BEM, Photoshop,
-        Bootstrap, Material UI.
+        Figma, Bootstrap, Material UI.
       </p>
       <p className="experience">
         <span>
