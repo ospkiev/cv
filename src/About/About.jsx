@@ -8,7 +8,7 @@ const About = () => {
                 I'm always looking forward to learning new technologies and improving already learned ones.
                 I began with HTML5/CSS3 and JavaScript basics, and moved to React/Redux ,
                 I have 7 monthes of experience in commercial projects,
-                worked in team via SCRUM with backend, PM, QA.
+                worked in team via SCRUM with BE, PM, QA.
                 Technology I use in my work : JS,React,Redux,HTML5,CSS3,REST,Webpack,Material/Semantic,Photoshop,Figma,Gulp/SASS, Git,adaptive and responsive layout.
                 </p>
             <p className='skills'> <span>Skills:</span> JavaScript, React, Redux, Material/Semantic, CSS3, HTML5, SASS/Gulp, Webpack, Git, Agile, Scrum.
