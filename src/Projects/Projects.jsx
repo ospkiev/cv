@@ -3,6 +3,7 @@ import "./Projects.css";
 import weather from "../img/weather.jpg";
 import game from "../img/game.jpg";
 import landing from "../img/Landing.png";
+import nimble from "../img/nimble.png";
 
 const Projects = () => {
   return (
@@ -10,13 +11,13 @@ const Projects = () => {
       <p className="text">My pet-projects.</p>
       <p className="img__wrapper">
         <a
-          href="https://ospkiev.github.io/Landing/build/index.html"
+          href="https://ospkiev.github.io/game/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={landing} />
+          <img src={nimble} />
         </a>
-        Used HTML5/CSS3{" "}
+        Vue/Nuxt
       </p>
       <p className="img__wrapper">
         <a
@@ -26,7 +27,7 @@ const Projects = () => {
         >
           <img src={weather} />
         </a>
-        Get Weather , a single page application was developed via React/Redux
+        React
       </p>
       <p className="img__wrapper">
         <a
@@ -36,7 +37,17 @@ const Projects = () => {
         >
           <img src={game} />
         </a>
-        Used JS/HTML5/CSS3
+        JS/HTML5/CSS3
+      </p>
+      <p className="img__wrapper">
+        <a
+          href="https://ospkiev.github.io/Landing/build/index.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={landing} />
+        </a>
+        HTML5/CSS3
       </p>
     </div>
   );
