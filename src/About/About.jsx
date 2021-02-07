@@ -5,13 +5,12 @@ const About = () => {
   return (
     <div className="about">
       <p className="about__me">
-        My name is Pavel Karpenko, I'm web-developer with a strong interest in
+        My name is Pavel Karpenko, I'm front-developer with a strong interest in
         creating Web App based on React, Vue. I'm always looking forward to
         learning new technologies and improving already learned ones. I began
-        with HTML5/CSS3 and React/Redux ,now I work with Vue/Nuxt.
+        work with React/Redux ,and now I work with Vue/Nuxt.
       </p>
       <p className="skills">
-        {" "}
         <span>Skills:</span> JavaScript, React/Redux, Vue/Nuxt, BEM, Photoshop,
         Figma, Bootstrap, Material UI.
       </p>
@@ -27,7 +26,7 @@ const About = () => {
         <br />
         Front-end developer, June2019 – Now.
         <br />
-        Responsibilities : develop web app on Vue/Nuxt.
+        Responsibilities : develop e-shop and admin panel for it, on Vue/Nuxt.
         <br />
         2. Upscale Academy (Kyiv) <br />
         <a href="https://upscaleacademy.com/" target="_blank" rel="noopener noreferrer">
@@ -36,11 +35,11 @@ const About = () => {
         <br />
         Front-end developer, Dec2018 - June2019
         <br />
-        Responsibilities: develop web app on React/Redux.
+        Responsibilities: developed admin panel for educational portal on React/Redux.
         <br />
         3.GIMedia (Kyiv)
         <br />
-        Support engineer, Jan 2017 – Aug 2018. Responsibilities : provide
+        Support engineer/tester, Jan 2017 – Aug 2018. Responsibilities : provide
         software and hardware for Digital Signage Solutions (manage and control
         video/audio content remotely in advertising industry).
       </p>
