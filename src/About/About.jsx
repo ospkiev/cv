@@ -33,11 +33,8 @@ const About = () => {
         Responsibilities : develop e-shop and admin panel for it, on Vue/Nuxt.
         <br />
         2. Upscale Academy (Kyiv) <br />
-        <br />
         Front-end developer, Dec2018 - June2019
-        <br />
         Responsibilities: developed admin panel for educational portal on React/Redux.
-        <br />
         3.GIMedia (Kyiv)
         <a href="https://gimedia.com/" target="_blank" rel="noopener noreferrer">
           https://gimedia.com/
