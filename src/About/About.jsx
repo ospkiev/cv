@@ -11,15 +11,15 @@ const About = () => {
         work with React/Redux ,and now I work with Vue/Nuxt.
       </p>
       <p className="skills">
-        <span>Skills:</span> JavaScript, React/Redux, Vue/Nuxt, BEM, Photoshop,
-        Figma, Bootstrap, Material UI.
+        <span>Skills:</span> JavaScript/TypeScript, React/Redux, Vue/Nuxt/Vuex/Route, Webpack, BEM, Photoshop,
+        Figma, Bootstrap, Material/Vuetify.
       </p>
       <p className="experience">
         <span>
           Work experience.
           <br />
         </span>
-        1.SelectSpecs (Kyiv, London) <br />
+        1.SelectSpecs (Kyiv, Westgate-on-sea) <br />
         <a href="https://www.selectspecs.com/" target="_blank" rel="noopener noreferrer">
           https://www.selectspecs.com/
         </a>
@@ -29,15 +29,15 @@ const About = () => {
         Responsibilities : develop e-shop and admin panel for it, on Vue/Nuxt.
         <br />
         2. Upscale Academy (Kyiv) <br />
-        <a href="https://upscaleacademy.com/" target="_blank" rel="noopener noreferrer">
-          https://upscaleacademy.com/
-        </a>
         <br />
         Front-end developer, Dec2018 - June2019
         <br />
         Responsibilities: developed admin panel for educational portal on React/Redux.
         <br />
         3.GIMedia (Kyiv)
+        <a href="https://gimedia.com/" target="_blank" rel="noopener noreferrer">
+          https://gimedia.com/
+        </a>
         <br />
         Support engineer/tester, Jan 2017 – Aug 2018. Responsibilities : provide
         software and hardware for Digital Signage Solutions (manage and control
