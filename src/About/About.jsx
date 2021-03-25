@@ -5,13 +5,17 @@ const About = () => {
   return (
     <div className="about">
       <p className="about__me">
-        My name is Pavel Karpenko, I'm front-developer with a strong interest in
-        creating Web App based on React, Vue. I'm always looking forward to
-        learning new technologies and improving already learned ones. I began
-        work with React/Redux ,and now I work with Vue/Nuxt.
+        My name is Pavel Karpenko, I'm frontend-developer and I create web apps based on Vue/React. 
+        My current project is e-commerce app which allow customers from all around the world
+        buy optics (eyeglasses, sunglasses and accessories).
+        My responsibility area is admin-panel for this shop, which provide the following functionality:
+        managing orders/payments, user`s accounts (roles), add new delivery partners, 
+        managing user`s reviews, add new brands/items, managing countries/currencies, 
+        create promo actions, SEO etc. 
+        For UI I use Vuetify, Bootstrap, for Git and CI/CD I use GitLab.
       </p>
       <p className="skills">
-        <span>Skills:</span> JavaScript/TypeScript, React/Redux, Vue/Nuxt/Vuex/Route, Webpack, BEM, Photoshop,
+        <span>Skills:</span> JavaScript/TypeScript, React/Redux, Vue/Nuxt/Vuex/VueRouter, Webpack, BEM, Photoshop,
         Figma, Bootstrap, Material/Vuetify.
       </p>
       <p className="experience">
@@ -19,7 +23,7 @@ const About = () => {
           Work experience.
           <br />
         </span>
-        1.SelectSpecs (Kyiv, Westgate-on-sea) <br />
+        1.SelectSpecs (Kyiv, Westgate on Sea (UK)) <br />
         <a href="https://www.selectspecs.com/" target="_blank" rel="noopener noreferrer">
           https://www.selectspecs.com/
         </a>
