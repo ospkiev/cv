@@ -39,16 +39,6 @@ const Projects = () => {
         </a>
         JS/HTML5/CSS3
       </p>
-      <p className="img__wrapper">
-        <a
-          href="https://ospkiev.github.io/Landing/build/index.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img src={landing} />
-        </a>
-        HTML5/CSS3
-      </p>
     </div>
   );
 };
