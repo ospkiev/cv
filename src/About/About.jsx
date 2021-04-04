@@ -5,13 +5,13 @@ const About = () => {
   return (
     <div className="about">
       <p className="about__me">
-        My name is Pavel Karpenko, I'm frontend-developer and I create web apps based on Vue/React. 
+        My name is Pavel Karpenko, I'm frontend-developer and I create web apps based on Vue/React.
         My current project is e-commerce app which allow customers from all around the world
         buy optics (eyeglasses, sunglasses and accessories).
         My responsibility area is admin-panel for this shop, which provide the following functionality:
-        managing orders/payments, user`s accounts (roles), add new delivery partners, 
-        managing user`s reviews, add new brands/items, managing countries/currencies, 
-        create promo actions, SEO etc. 
+        managing orders/payments, user`s accounts (roles), add new delivery partners,
+        managing user`s reviews, add new brands/items, managing countries/currencies,
+        create promo actions, SEO etc.
         For UI I use Vuetify, Bootstrap, for Git and CI/CD I use GitLab.
       </p>
       <p className="skills">

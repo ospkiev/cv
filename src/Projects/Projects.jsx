@@ -2,7 +2,6 @@ import React from "react";
 import "./Projects.css";
 import weather from "../img/weather.jpg";
 import game from "../img/game.jpg";
-import landing from "../img/Landing.png";
 import nimble from "../img/nimble.png";
 
 const Projects = () => {
@@ -11,7 +10,7 @@ const Projects = () => {
       <p className="text">My pet-projects.</p>
       <p className="img__wrapper">
         <a
-          href="https://ospkiev.github.io/game/"
+          href="https://ospkiev.github.io/Nimble/"
           target="_blank"
           rel="noopener noreferrer"
         >
