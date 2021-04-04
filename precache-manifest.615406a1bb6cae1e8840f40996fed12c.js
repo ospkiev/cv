@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "21cf7ad6846accfb8869",
+    "revision": "34f7919e7e9b52f2ced7",
     "url": "/cv/static/css/main.d96093de.chunk.css"
   },
   {
-    "revision": "21cf7ad6846accfb8869",
-    "url": "/cv/static/js/main.21cf7ad6.chunk.js"
+    "revision": "34f7919e7e9b52f2ced7",
+    "url": "/cv/static/js/main.34f7919e.chunk.js"
   },
   {
     "revision": "e90d0b3e5503570f0f74",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/cv/static/media/nimble.bc1c08a7.png"
   },
   {
-    "revision": "4dbf00acbdc8b4e39d7729a4c36f536e",
+    "revision": "a3954bae3fb44aa0968e04d69d668134",
     "url": "/cv/index.html"
   }
 ];
