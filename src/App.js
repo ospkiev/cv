@@ -80,7 +80,7 @@ class App extends Component {
           </ul>
           <div className="download_wrapper">
             <a
-              href="https://drive.google.com/file/d/1iGESlWdPLR_T8DN6suxYji9MCWphAqnQ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ZNPN5AetwP_D9hPxW7bk44PGffmyFh8e/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="download"
