@@ -15,8 +15,9 @@ const About = () => {
         For UI I use Vuetify, Bootstrap, for Git and CI/CD I use GitLab.
       </p>
       <p className="skills">
-        <span>Skills:</span> JavaScript/TypeScript, React/Redux, Vue/Nuxt/Vuex/VueRouter, Webpack, BEM, Photoshop,
-        Figma, Bootstrap, Material/Vuetify.
+        <span>Skills:</span> JavaScript/TypeScript, Vue/Nuxt/Vuex/VueRouter,
+        React/Redux, SOLID, Webpack, BEM, Responsive/Adaptive layout,
+        Bootstrap, Material/Vuetify, Figma.
       </p>
       <p className="experience">
         <span>
